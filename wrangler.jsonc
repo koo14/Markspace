@@ -18,7 +18,7 @@
 		{
 			"binding": "DB",
 			"database_name": "markspace-db",
-			"database_id": "3437fa71-7efd-48c3-bd1b-0204d07cb631",
+			"database_id": "f7ff6ca8-d727-4452-9c32-ad516484ccb0",
 			"migrations_dir": "apps/api/migrations"
 		}
 	],
